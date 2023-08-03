@@ -17,37 +17,22 @@ int main()
     digits = 0;
     
 
-    // figure out max power of 2
-    /*
-    loop 1      76 / 2      38          digit 1     0
-    loop 2      38 / 2      19          digit 2     0
-    loop 3      19 / 2      9           digit 3     1
-    loop 4      9 / 2       4           digit 4     1
-    loop 5      4 / 2       2           digit 5     0
-    loop 6      2 / 2       1           digit 6     0
-    loop 7      1 / 2       0           digit 7     1
-    loop 8      //
-    */
-
-    while (temp1 > 0)
-    {
-        temp1 = temp1 / 2;
-        digits++;
-    }
-
-    // case 1 - num = 0 / 1, program ends here
+    // case 1 - num = 0, program ends here
     if (num == 0)
     {
         cout << "The binary representation of 0 is 0" << endl;
         return 0;
     }
-    else if (num == 1)
+
+    // case 2 - num >= 1
+    // figure out max power of 2
+    while (temp1 > 0)
     {
-        cout << "The binary representation of 1 is 1" << endl;
-        return 0;
+        temp1 = temp1 / 2;
+        digits++;
     }
         
-    // case 2 - num >= 2, get 2 to power of digits
+    // get 2 to power of digits, 2^0=1 by default
     int pow_2 = 1;
     for (int j = 1; j < digits; j++)
         pow_2 *= 2;
@@ -60,17 +45,17 @@ int main()
     {
         if (pow_2 <= temp2) // if pow2 <= temp2, print 1
         {
-            cout << "1"; //update temp2
-            temp2 -= pow_2;
+            cout << "1"; 
+            temp2 -= pow_2; //update temp2
         }
         else // else, print 0
-            cout << "0"; //update temp2
+            cout << "0";
 
         // update pow_2
         pow_2 = pow_2 / 2;
     }
 
-    // new line after loops
+    // new line after loop ends
     cout << endl;
     return 0;
 }
