@@ -1,4 +1,3 @@
-// hl5737_hw5_q3.cpp
 /*
 FUNCTION 1: int printMonthCalender(int numOfDays, int startingDay)
 1. print a formatted MONTHLY calendar of that month

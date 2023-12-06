@@ -1,4 +1,3 @@
-// Q6.cpp : This file contains the 'main' function. Program execution begins and ends there.
 /*
 - ask user to input positive integer n
 - print all of the numbers from 1 to n

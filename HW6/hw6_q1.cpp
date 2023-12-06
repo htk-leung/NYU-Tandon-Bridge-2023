@@ -1,4 +1,3 @@
-// hl5737_hw6_q1
 /*
 Implement function: int minInArray(int arr[], int arrSize)
 This function is given arr, an array of integers, and its logical size, arrSize. When called,

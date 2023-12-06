@@ -1,4 +1,3 @@
-// hl5737_hw6_q4
 /*
 Write a program to simulate the authentication process. 
 

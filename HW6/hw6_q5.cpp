@@ -1,4 +1,3 @@
-// hl5737_hw6_q5
 /*
 Write a program that reads a person’s name in the following format:
 first name, then middle name or initial, and then last name.

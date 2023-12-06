@@ -1,4 +1,3 @@
-// hl5737_hw6_q2
 /*
 Question 2:
 A palindrome is a word, which reads the same backward or forward. 

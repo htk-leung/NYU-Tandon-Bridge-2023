@@ -1,4 +1,3 @@
-// Q7.cpp : This file contains the 'main' function. Program execution begins and ends there.
 /*
 * reads a positive integer n
 * prints out a n x n multiplication table

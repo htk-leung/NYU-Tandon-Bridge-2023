@@ -1,4 +1,3 @@
-// hl5737_hw6_q3
 /*
 Implement following functions:
 

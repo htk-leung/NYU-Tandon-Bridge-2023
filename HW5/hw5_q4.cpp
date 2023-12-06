@@ -1,4 +1,3 @@
-// hl5737_hw5_q4.cpp
 /*
 1. FUNCTION 1 void printDivisors (int num)
 - given +ve int num

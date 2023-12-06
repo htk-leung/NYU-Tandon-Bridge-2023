@@ -1,4 +1,3 @@
-// hl5737_hw5_q4.cpp
 /*
 1. FUNCTION 1 void analyzeDividors(int num, int& outCountDivs, int& outSumDivs)
 - takes as an input a positive integer num (≥ 2),

@@ -1,4 +1,3 @@
-// hl5737_hw6_q6
 /*
 Write a program that 
 - reads in a line of text and 

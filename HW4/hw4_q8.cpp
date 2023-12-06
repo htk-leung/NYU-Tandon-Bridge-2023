@@ -1,4 +1,3 @@
-// Q8.cpp : This file contains the 'main' function. Program execution begins and ends there.
 /*
 - number guessing game
 - program randomly choose an integer between 1 and 100 (inclusive)

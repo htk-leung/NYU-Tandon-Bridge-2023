@@ -1,4 +1,3 @@
-// hl5737_hw5_q1.cpp
 /*
 Fibonacci numbers: F_n = F_n-1 + F_n-2
 
@@ -6,7 +5,7 @@ Fibonacci numbers: F_n = F_n-1 + F_n-2
   returns the n-th element of the Fibonacci sequence.
 
 - Write a PROGRAM that prompts the user to enter a positive integer num, and then
-  prints the num’s elements in the Fibonacci sequence.
+  prints the numï¿½s elements in the Fibonacci sequence.
 */
 
 #include <iostream>

@@ -1,4 +1,3 @@
-// hl5737_hw5_q2.cpp 
 /*
 Write a program that, prints a 'pine tree' consisting of triangles of increasing sizes
 - in any symbol of choice
