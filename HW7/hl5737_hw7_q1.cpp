@@ -53,7 +53,7 @@ void read_char(string l, int c_count[], int& w_count) {
     }
 }
 
-void print_c_count(int arr[], int len) {                    // output letters in alphabetical order ONLY those that do occur
+void print_c_count(int arr[], int len) {                        // output letters in alphabetical order ONLY those that do occur
     for (int i = 0; i < len; i++)
         if (arr[i] != 0)
             cout << arr[i] << '\t' << (char)(i + 97) << endl;
