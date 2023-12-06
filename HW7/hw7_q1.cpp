@@ -1,5 +1,3 @@
-// hl5737_hw7_q1.cpp
-
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,7 +1,3 @@
-// hl5737_hw7_q3.cpp
-
-// correct, but can it be shorter???
-
 #include <iostream>
 #include <vector>
 using namespace std;

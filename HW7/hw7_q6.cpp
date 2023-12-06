@@ -1,17 +1,3 @@
-// hl5737_hw7_q6.cpp
-
-// write 2 verions
-
-// read from user a sequence of positive integers 
-// ends with -1
-// another positive int num user wishes to search for
-
-// print all line numbers in sequence entered by user,
-// or message saying num does not show at all in sequence
-
-// version 1: not allowed to use vector
-// version 2: use vector
-
 #include <iostream>
 #include <string>
 #include <vector>

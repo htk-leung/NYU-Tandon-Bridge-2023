@@ -1,5 +1,3 @@
-//hl5737_hw7_q5.cpp
-
 #include <iostream>
 #include <vector>
 

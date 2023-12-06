@@ -1,5 +1,3 @@
-// hl5737_hw7_q4.cpp
-
 #include <iostream>
 #include <string>
 #include <vector>
